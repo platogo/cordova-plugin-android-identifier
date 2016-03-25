@@ -2,10 +2,10 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="cordova-plugin-uuid"
+    id="cordova-plugin-android-identifier"
     version="0.0.1">
     <name>Identifier</name>
-    <description>Cordova Device Identifier Plugin</description>
+    <description>Cordova Android Device Identifier Plugin</description>
     <license>MIT</license>
     <keywords>cordova,device</keywords>
 
