@@ -6,7 +6,7 @@
     version="0.0.1">
     <name>Identifier</name>
     <description>Cordova Device Identifier Plugin</description>
-    <license>Apache 2.0</license>
+    <license>MIT</license>
     <keywords>cordova,device</keywords>
 
     <js-module src="www/identifier.js" name="identifier">
