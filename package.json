@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-android-identifier",
+  "version": "0.0.1",
+  "description": "Cordova Android Device Identifier Plugin",
+  "cordova": {
+    "id": "cordova-plugin-android-identifier",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/platogo/cordova-plugin-android-identifier.git"
+  },
+  "keywords": [
+    "cordova",
+    "device",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/platogo/cordova-plugin-android-identifier/issues"
+  },
+  "homepage": "https://github.com/platogo/cordova-plugin-android-identifier#readme"
+}
